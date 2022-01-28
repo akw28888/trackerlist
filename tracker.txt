@@ -231,4 +231,3 @@ vibe.community
 vibe.sleepyinternetfun.xyz
 wassermann.online
 torrent.eu.org
-wss
